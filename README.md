@@ -16,6 +16,7 @@ This repository aims at centralizing all documents which emanate from the [Gipsa
 | Julien MUZEAU | Machine learning overview |
 | Fanny ROCHE | Autoencoders |
 | Pedro RODRIGUES | Manifolds for time series |
+| Pedro RODRIGUES | Transfer learning for Brain Computer Interfaces |
 
 ## Links
 * 3Blue1Brown - [But what is a neural network ?](https://www.youtube.com/watch?v=aircAruvnKk)
