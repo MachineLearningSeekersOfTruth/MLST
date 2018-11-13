@@ -5,18 +5,18 @@ This repository aims at centralizing all documents which emanate from the [Gipsa
 ## Presentations
 | Lecturer | Title |
 | -------- | ----- |
-| Dawood AL CHANTI | Spatio-temporal modelling |
-| Anton ANDREEV | Probabilistic programming |
-| Ludovic DARMET | Kaggle tournament |
+| Dawood AL CHANTI | [Spatio-temporal modelling] (Presentations/Dawood%20AL%20CHANTI%20-%20Spatio-temporal%20modelling.pptx) |
+| Anton ANDREEV | [Probabilistic programming] (Presentations/Anton%20ANDREEV%20-%20Probabilistic%20programming.pptx) |
+| Ludovic DARMET | [Kaggle tournament] (Presentations/Ludovic%20DARMET%20-%20Kaggle%20tournament.pdf) |
 | Branislav GERAZOV | [DLMiMed : deep learning for breast tumor classification based on medical microwave imaging](https://github.com/bgerazov/DLMiMed) |
 | Branislav GERAZOV | [Tutorial on regression using classic tools and neural networks](https://github.com/bgerazov/PyRegression) |
-| Gaël LE GODAIS | Exploration of the lexical capacity of recurrent neural networks |
+| Gaël LE GODAIS | [Exploration of the lexical capacity of recurrent neural networks] (Presentations/Gael%20LE%20GODAIS%20-%20Exploration%20of%20the%20lexical%20capacity%20of%20recurrent%20neural%20networks.pdf) |
 | Omar Samir MOHAMMED | [Tutorial on text generation using recurrent neural networks](https://github.com/osm3000/text_generation_rnn_tutorial) |
-| Julien MUZEAU | Kaggle Kernels |
-| Julien MUZEAU | Machine learning overview |
+| Julien MUZEAU | [Kaggle Kernels] (Presentations/Julien%20MUZEAU%20-%20Kaggle%20Kernels.pdf) |
+| Julien MUZEAU | [Machine learning overview] (Presentations/Julien%20MUZEAU%20-%20Machine%20learning%20overview.pdf)  |
 | Fanny ROCHE | Autoencoders |
-| Pedro RODRIGUES | Manifolds for time series |
-| Pedro RODRIGUES | Transfer learning for Brain Computer Interfaces |
+| Pedro RODRIGUES | [Manifolds for time series] (Presentations/Pedro%20RODRIGUES%20-%20Manifold%20learning%20for%20time%20series.pdf) |
+| Pedro RODRIGUES | [Transfer learning for Brain Computer Interfaces] (Presentations/Pedro%20RODRIGUES%20-%20Transfer%20learning%20for%20Brain%20Computer%20Interfaces.pdf) |
 
 ## Links
 * 3Blue1Brown - [But what is a neural network ?](https://www.youtube.com/watch?v=aircAruvnKk)
