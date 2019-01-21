@@ -12,12 +12,14 @@ This repository aims at centralizing all documents which emanate from the [Gipsa
 | Branislav GERAZOV | [Tutorial on regression using classic tools and neural networks](https://github.com/bgerazov/PyRegression) |
 | Gaël LE GODAIS | [Exploration of the lexical capacity of recurrent neural networks](Presentations/Gael%20LE%20GODAIS%20-%20Exploration%20of%20the%20lexical%20capacity%20of%20recurrent%20neural%20networks.pdf) |
 | Omar Samir MOHAMMED | [Tutorial on text generation using recurrent neural networks](https://github.com/osm3000/text_generation_rnn_tutorial) |
+| Omar Samir MOHAMMED | [Evolutionary Algorithms](Presentations/Omar%Samir%MOHAMMED%-%Evolutionary%Algorithms.pdf) |
 | Julien MUZEAU | [Kaggle Kernels](Presentations/Julien%20MUZEAU%20-%20Kaggle%20Kernels.pdf) |
 | Julien MUZEAU | [Machine learning overview](Presentations/Julien%20MUZEAU%20-%20Machine%20learning%20overview.pdf)  |
 | Fanny ROCHE | Autoencoders |
 | Pedro RODRIGUES | [Manifolds for time series](Presentations/Pedro%20RODRIGUES%20-%20Manifold%20learning%20for%20time%20series.pdf) |
 | Pedro RODRIGUES | [Transfer learning for Brain Computer Interfaces](Presentations/Pedro%20RODRIGUES%20-%20Transfer%20learning%20for%20Brain%20Computer%20Interfaces.pdf) |
 | Helene Serre | [Artistic vs daily life movements](Presentations/Helene%SERRE%-%Artistic%vs%daily%life%movements.ppt) |
+
 
 ## Links
 * 3Blue1Brown - [But what is a neural network ?](https://www.youtube.com/watch?v=aircAruvnKk)
