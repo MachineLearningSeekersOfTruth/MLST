@@ -17,17 +17,21 @@ This repository aims at centralizing all documents which emanate from the [Gipsa
 | Fanny ROCHE | Autoencoders |
 | Pedro RODRIGUES | [Manifolds for time series](Presentations/Pedro%20RODRIGUES%20-%20Manifold%20learning%20for%20time%20series.pdf) |
 | Pedro RODRIGUES | [Transfer learning for Brain Computer Interfaces](Presentations/Pedro%20RODRIGUES%20-%20Transfer%20learning%20for%20Brain%20Computer%20Interfaces.pdf) |
+| Helene Serre | [Artistic vs daily life movements](Presentations/Helene%SERRE%-%Artistic%vs%daily%life%movements.ppt) |
 
 ## Links
 * 3Blue1Brown - [But what is a neural network ?](https://www.youtube.com/watch?v=aircAruvnKk)
 * [BayesDB](http://probcomp.csail.mit.edu/bayesdb/)
 * BISHOP Christopher - [Graphical models](https://www.youtube.com/watch?v=ju1Grt2hdko)
+* [Blackbox - A Python module for parallel optimization of expensive black-box functions](https://github.com/paulknysh/blackbox)
 * BROWNLEE Jason - [What are word embeddings for text ?](https://machinelearningmastery.com/what-are-word-embeddings/)
 * CHOLLET François - [Building auto-encoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 * [Deep and machine learning references](https://docs.google.com/spreadsheets/d/1pspL9FiGcYWG0F1BrfrnWsejC7kd6WiO1iz7aFe4L_0/edit#gid=0)
 * ENGEL Jesse - [Making a neural synthesizer instrument](https://magenta.tensorflow.org/nsynth-instrument)
+* [Facets - Visualizations for machine learning datasets](https://github.com/pair-code/facets)
 * GOODFELLOW Ian, BENGIO Yoshua, COURVILLE Aaron - [Deep learning](http://www.deeplearningbook.org/)
 * [How to use t-SNE effectively ?](https://distill.pub/2016/misread-tsne/)
+* HASTIE Trevor - [The elements of statistical learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * [Hyperopt - Distributed asynchronous hyperparameter optimization in Python](https://github.com/hyperopt/hyperopt)
 * [IPAM 2018 - New deep learning techniques](https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule)
 * [Kaggle Kernels](https://www.kaggle.com/general/37924)
@@ -41,3 +45,4 @@ This repository aims at centralizing all documents which emanate from the [Gipsa
 * RASCHKA Sebastian - [Python machine learning](https://github.com/rasbt/python-machine-learning-book)
 * Stanford univeristy - [Statistical learning course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 * [Talking machines - Human conversations about machine learning](http://www.thetalkingmachines.com/)
+* [TPOT - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming](https://github.com/EpistasisLab/tpot)
