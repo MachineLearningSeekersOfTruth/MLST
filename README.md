@@ -18,7 +18,9 @@ This repository aims at centralizing all documents which emanate from the [Gipsa
 | Fanny ROCHE | Autoencoders |
 | Pedro RODRIGUES | [Manifolds for time series](Presentations/Pedro%20RODRIGUES%20-%20Manifold%20learning%20for%20time%20series.pdf) |
 | Pedro RODRIGUES | [Transfer learning for Brain Computer Interfaces](Presentations/Pedro%20RODRIGUES%20-%20Transfer%20learning%20for%20Brain%20Computer%20Interfaces.pdf) |
-| Helene Serre | [Artistic vs daily life movements](Presentations/Helene%20SERRE%20-%20Artistic%20vs%20daily%20life%20movements.ppt) |
+| Helene SERRE | [Artistic vs daily life movements](Presentations/Helene%20SERRE%20-%20Artistic%20vs%20daily%20life%20movements.ppt) |
+| Dawood AL CHANTI | [Zero Shot Learning](Presentations/Dawood%20AL%20CHANTI%20-%20Zero%20Shot%20Learning.pdf) |
+| Ludovic DARMET | [GMM Domain Adaptation](Presentations/Ludovic%20DARMET%20-%20GMM%20Domain%20Adaptation.pdf) |
 
 
 ## Links
